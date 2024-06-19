@@ -1,0 +1,17 @@
+{
+    "name": "cypee/books-php",
+    "description": "Cypee.com Bookkeeping and Invoicing API Library!",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Cypee\\BooksPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Arashdeep Singh",
+            "email": "arashdeeps2004@gmail.com"
+        }
+    ],
+    "require": {}
+}
